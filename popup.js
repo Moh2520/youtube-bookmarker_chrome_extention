@@ -9,5 +9,5 @@ const onDelete = e => {};
 
 const setBookmarkAttributes =  () => {};
 
-console.log("HIIHIHIH")
+console.log("First CM")
 document.addEventListener("DOMContentLoaded", () => {});

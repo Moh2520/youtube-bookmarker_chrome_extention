@@ -7,6 +7,7 @@
         const { type, value, videoId } = obj;
 
         if (type === "NEW") {
+            console.log("First CM")
             currentVideo = videoId;
             newVideoLoaded();
         }
